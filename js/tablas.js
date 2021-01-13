@@ -1,1 +1,5 @@
-$(document).ready
+$(document).ready(function(){
+	$.ajax({
+		
+	});
+});
